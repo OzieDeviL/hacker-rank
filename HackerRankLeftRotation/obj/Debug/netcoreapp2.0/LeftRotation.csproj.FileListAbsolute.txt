@@ -1,0 +1,11 @@
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\bin\Debug\netcoreapp2.0\LeftRotation.deps.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\bin\Debug\netcoreapp2.0\LeftRotation.runtimeconfig.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\bin\Debug\netcoreapp2.0\LeftRotation.runtimeconfig.dev.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\bin\Debug\netcoreapp2.0\LeftRotation.dll
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\bin\Debug\netcoreapp2.0\LeftRotation.pdb
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.csprojResolveAssemblyReference.cache
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.csproj.CoreCompileInputs.cache
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.AssemblyInfoInputs.cache
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.AssemblyInfo.cs
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.dll
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\HackerRankLeftRotation\obj\Debug\netcoreapp2.0\LeftRotation.pdb

@@ -1,0 +1,11 @@
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\bin\Debug\netcoreapp2.0\MakingAnagrams.deps.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\bin\Debug\netcoreapp2.0\MakingAnagrams.runtimeconfig.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\bin\Debug\netcoreapp2.0\MakingAnagrams.runtimeconfig.dev.json
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\bin\Debug\netcoreapp2.0\MakingAnagrams.dll
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\bin\Debug\netcoreapp2.0\MakingAnagrams.pdb
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.csproj.CoreCompileInputs.cache
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.AssemblyInfoInputs.cache
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.AssemblyInfo.cs
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.dll
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.pdb
+C:\Development\CSharpConsoleApps\HackerRankLeftRotation\MakingAnagrams\obj\Debug\netcoreapp2.0\MakingAnagrams.csprojResolveAssemblyReference.cache

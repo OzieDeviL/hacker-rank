@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D9F16AD-55D1-4F1B-A095-BB1AD0F93072}"
+	ProjectSection(SolutionItems) = preProject
+		BalancedBrackets\BalancedBrackets.Console.csproj = BalancedBrackets\BalancedBrackets.Console.csproj
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBrackets.Console", "BalancedBrackets\BalancedBrackets.Console.csproj", "{113AE803-4A16-4EC6-9866-7B36E908471E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeftRotation", "HackerRankLeftRotation\LeftRotation.csproj", "{42FB6B48-4CB8-43F5-9366-8EA7F0D14059}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRankRansom.Console", "HackerRankRansom.Console\HackerRankRansom.Console.csproj", "{6574CADF-A38A-41F8-B0D3-027469FC32EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingAnagrams", "MakingAnagrams\MakingAnagrams.csproj", "{0B11A8DF-D1A7-4E76-9394-C68032913281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113AE803-4A16-4EC6-9866-7B36E908471E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113AE803-4A16-4EC6-9866-7B36E908471E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113AE803-4A16-4EC6-9866-7B36E908471E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113AE803-4A16-4EC6-9866-7B36E908471E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FB6B48-4CB8-43F5-9366-8EA7F0D14059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FB6B48-4CB8-43F5-9366-8EA7F0D14059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FB6B48-4CB8-43F5-9366-8EA7F0D14059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FB6B48-4CB8-43F5-9366-8EA7F0D14059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6574CADF-A38A-41F8-B0D3-027469FC32EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6574CADF-A38A-41F8-B0D3-027469FC32EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6574CADF-A38A-41F8-B0D3-027469FC32EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6574CADF-A38A-41F8-B0D3-027469FC32EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B11A8DF-D1A7-4E76-9394-C68032913281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B11A8DF-D1A7-4E76-9394-C68032913281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B11A8DF-D1A7-4E76-9394-C68032913281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B11A8DF-D1A7-4E76-9394-C68032913281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {788EE2E5-3F08-4820-93FC-E7ED205AD44B}
+	EndGlobalSection
+EndGlobal
